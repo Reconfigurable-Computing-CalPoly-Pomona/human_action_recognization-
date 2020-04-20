@@ -1,5 +1,5 @@
 #### Introduction
-This repo contains both a tensorflow and pytorch approach for video human action recognition.  An InceptionV3 architecture is used to train the Tensorflow model, and 3D Convolutional Network architecture is used for PyTorch.
+This repo contains both a tensorflow and pytorch implementation on PYNQ-Z1 for video human action recognition.  An InceptionV3 architecture is used to train the Tensorflow model, and 3D Convolutional Network architecture is used for PyTorch.  The performance is measured by the frames per second.
 
 #### Building this project
 
