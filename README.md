@@ -13,13 +13,10 @@ This project contains source code for Tensorflow InceptionV3 and PyTorch 3D Conv
 
 The original source code can be found at: 
 
-PyTorch source: https://github.com/manoharvhr/PYNQ-Torch
-
-PyTorch Training and Implementation: https://github.com/jfzhang95/pytorch-video-recognition
-
-Tensorflow Training: https://github.com/harvitronix/five-video-classification-methods
-
-Tensorflow Inference: https://github.com/dronefreak/human-action-classification
+1. PyTorch source: https://github.com/manoharvhr/PYNQ-Torch
+2. PyTorch Training and Implementation: https://github.com/jfzhang95/pytorch-video-recognition
+3. Tensorflow Training: https://github.com/harvitronix/five-video-classification-methods
+4. Tensorflow Inference: https://github.com/dronefreak/human-action-classification
 
 
 ### Team Member:
