@@ -14,8 +14,11 @@ This project contains source code for RSA algorithm implemented in VHDL and Qisk
 The original source code can be found at: 
 
 PyTorch source: https://github.com/manoharvhr/PYNQ-Torch
+
 PyTorch Training and Implementation: https://github.com/jfzhang95/pytorch-video-recognition
+
 Tensorflow Training: https://github.com/harvitronix/five-video-classification-methods
+
 Tensorflow Inference: https://github.com/dronefreak/human-action-classification
 
 
