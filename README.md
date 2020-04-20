@@ -40,3 +40,4 @@ PyTorch v1.2.0 has been successfully deployed on a PYNQ-Z1 board running on PYNQ
 ### Project Sponsors:
 
 1. [Xilinx](https://www.xilinx.com/)
+2. **[IBM-Illinois Center for Cognitive Computing Systems Research](https://www.c3sr.com/)**
