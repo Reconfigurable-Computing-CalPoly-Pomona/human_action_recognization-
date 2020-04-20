@@ -3,7 +3,7 @@ This repo contains both a tensorflow and pytorch approach for video human action
 
 #### Building this project
 
-This project contains source code for RSA algorithm implemented in VHDL and Qiskit. Here are steps in building this project.
+This project contains source code for Tensorflow InceptionV3 and PyTorch 3D Convolutional Network algorithm. Here are steps in building this project.
 
 1. Clone this repository.
 2. Download the dataset from [UCF101](http://crcv.ucf.edu/data/UCF101/UCF101.rar) and extract.
