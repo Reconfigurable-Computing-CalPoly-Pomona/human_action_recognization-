@@ -6,9 +6,13 @@ This repo contains both a tensorflow and pytorch approach for video human action
 This project contains source code for Tensorflow InceptionV3 and PyTorch 3D Convolutional Network algorithm. Here are steps in building this project.
 
 1. Clone this repository.
+
 2. Download the dataset from [UCF101](http://crcv.ucf.edu/data/UCF101/UCF101.rar) and extract.
+
 3. Configure dataset in desired training method.
+
 4a. If running tensorflow, create folders train, test, sequences, and checkpoints in the data folder. Run 1_move_files.py and 2_extract_files.py to split dataset into train and test.  
+
 4b. If running PyTorch, run train.py to train the model. 
 
 The original source code can be found at: 
